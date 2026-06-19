@@ -1,0 +1,30 @@
+[
+  {
+    "title": "Lmarena AI",
+    "type": "Tool",
+    "category": "AI Tools",
+    "description": "Will update...",
+    "thumbnail": "https://images.prismic.io/contrary-research/aMA2YGGNHVfTO1va_LMArena_Square.png?auto=format%2Ccompress&fit=max&w=384",
+    "premium": false,
+    "featured": true,
+    "tags": [
+      "AI,Chatgpt,Cloude"
+    ],
+    "website": "https://arena.ai/"
+  }
+]
+[
+  {
+    "title": "Use.ai",
+    "type": "Tool",
+    "category": "AI Tools",
+    "description": "Will update...",
+    "thumbnail": "https://cdn-icons-png.flaticon.com/512/826/826118.png",
+    "premium": false,
+    "featured": true,
+    "tags": [
+      "AI,Chatgpt,Cloude"
+    ],
+    "website": "https://use.ai"
+  }
+]
