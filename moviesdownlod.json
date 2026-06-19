@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Cineby",
+    "type": "Other",
+    "category": "Movies",
+    "thumbnail": "https://cineby.cc/logo.png",
+    "premium": true,
+    "featured": false,
+    "tags": [
+      "Movies,series,kdrama"
+    ],
+    "website": "https://cineby.cc/"
+  }
+]
