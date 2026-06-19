@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Livezone",
+    "type": "Other",
+    "category": "Live TV",
+    "description": "Enjoy live tv & more",
+    "thumbnail": "https://w7.pngwing.com/pngs/626/276/png-transparent-live-sign-illustration-2018-indian-premier-league-microphone-live-television-streaming-media-live-stream-television-electronics-text-thumbnail.png",
+    "premium": true,
+    "featured": false,
+    "website": "https://sportslivetv.pages.dev/",
+    "license": "GPL-2.0",
+    "last_updated": "2026-06-19"
+  }
+]
