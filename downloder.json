@@ -1,0 +1,24 @@
+[
+  {
+    "title": "Vidsave All social",
+    "type": "Tool",
+    "category": "Downloader",
+    "description": "VidsSave helps you download videos, audio, reels, shorts, and photos in a few clicks. This all-in-one downloader is built for speed, privacy, and smooth use across mobile and desktop browsers.Supports YouTube, TikTok, Instagram, Facebook,Reddit and more.",
+    "thumbnail": "https://vidssave.com/_next/static/media/logo.ff4db81d.png",
+    "premium": false,
+    "featured": true,
+    "website": "https://vidssave.com/"
+  }
+]
+[
+  {
+    "title": "sssinstagram",
+    "type": "Tool",
+    "category": "Downloader",
+    "description": "Coming soon",
+    "thumbnail": "https://sssinstagram.com/images/logo.svg",
+    "premium": false,
+    "featured": false,
+    "website": "https://sssinstagram.com/reels-downloader"
+  }
+]
