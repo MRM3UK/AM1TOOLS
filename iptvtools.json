@@ -1,0 +1,11 @@
+[
+  {
+    "title": "M3U genaretor",
+    "type": "Tool",
+    "category": "IPTV",
+    "thumbnail": "https://w7.pngwing.com/pngs/626/276/png-transparent-live-sign-illustration-2018-indian-premier-league-microphone-live-television-streaming-media-live-stream-television-electronics-text-thumbnail.png",
+    "premium": true,
+    "featured": true,
+    "website": "https://m3-u-playlist-creator.vercel.app/#"
+  }
+]
